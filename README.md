@@ -1,2 +1,2 @@
-# outlook2google-calendar-sync
-Small script to synchronize Outlook Calendar events with Google Calendar.
+# exchange2google
+Simple script for importing Exchange/Outlook events to Google Calendar. 
